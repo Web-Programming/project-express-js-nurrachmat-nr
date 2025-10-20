@@ -7,10 +7,10 @@ POST http://localhost:3000/api/produk
 content-type: application/json
 
 {
-    "name": "Keyboard",
-    "price": "1",
-    "description" : "Hyper sensitive keyboard",
-    "stock" : 1
+    "name": "Keyboard Gaming",
+    "price": "150000",
+    "description" : "keyboard gaming murah meriah",
+    "stock" : 2
 }
 
 ### Detail Product
